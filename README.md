@@ -1,6 +1,6 @@
 # WinUI3-Namespace-Map
 
-This repository documents the key `Microsoft.UI.*` namespaces used in WinUI 3 development, ordered by practical relevance and architectural layering — from core UI composition to low-level rendering, input, and system integration.
+This repository is **a self note** that explains the key `Microsoft.UI.*` namespaces used in WinUI 3 development, ordered by practical relevance and architectural layering, from core UI composition to low-level rendering, input, and system integration.
 
 ---
 
