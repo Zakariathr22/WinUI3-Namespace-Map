@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ColorHelper (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ColorHelper (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
